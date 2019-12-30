@@ -1,0 +1,16 @@
+{
+  "name": "wechat-miniprogram-types",
+  "version": "0.1.0",
+  "description": "TypeScript definitions for Wechat Miniprogram",
+  "types": "index.d.js",
+  "repository": "https://github.com/yangmingshan/wechat-miniprogram-types.git",
+  "keywords": [
+    "weixin",
+    "wechat",
+    "miniprogram",
+    "types",
+    "definitions",
+    "ts",
+    "typescript"
+  ]
+}
